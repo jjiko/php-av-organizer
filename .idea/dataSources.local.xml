@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="yapo" uuid="67c794b3-fc34-4f5b-8dfd-3a4924a41433">
+      <database-info product="SQLite" version="3.25.1" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.25.1" dbms="SQLITE" exact-version="3.25.1" exact-driver-version="3.25">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <auth-required>false</auth-required>
+      <introspection-schemas>*:main</introspection-schemas>
+    </data-source>
+    <data-source name="db" uuid="a1fde543-d4ca-4db2-b1da-bb54129d0c82">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="db [2]" uuid="e8babe1e-b7a6-460c-bc32-6fccb602d706">
+      <database-info product="SQLite" version="3.25.1" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.25.1" dbms="SQLITE" exact-version="3.25.1" exact-driver-version="3.25">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <auth-required>false</auth-required>
+      <introspection-schemas>*:@</introspection-schemas>
+    </data-source>
+  </component>
+</project>
